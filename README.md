@@ -4,7 +4,7 @@ Here, I have created a directory that has a piece of code that draws a graph.
 ## And now I'm adding a plot
 
 
-![A Bar plot of penguins] (penguin_plot_4)
+![A Bar plot of penguins] (penguin_plot_4.png)
 
 
 ## I can also add a link to a [folder](./my_plots)
