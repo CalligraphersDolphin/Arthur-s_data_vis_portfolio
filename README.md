@@ -19,4 +19,6 @@ If I want I can even add a table!
 |**Week**     |**Topic**  |**Functions**  |
 |:------------|:----------|:--------------|
 | *Week 1*    |Intro      |rep()          |
-| *Week 2*    |Regex      |gsub()         |             
+| *Week 2*    |Code Repositories and Regular Expressions     |gsub()         |             
+| *Week 3*    |Loops and Functions    |gsub()         |  
+| *Week 5*    |Tidy Data 1    |fill()         |
