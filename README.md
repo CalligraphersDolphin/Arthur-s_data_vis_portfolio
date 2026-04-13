@@ -1,12 +1,10 @@
-# **Example README**
-
-
-This is some example text.
+# **Overview**
+Here, I have created a directory that has a piece of code that draws a graph.
 
 ## And now I'm adding a plot
 
 
-![A histogram of penguins](./histograms.png)
+![A Bar plot of penguins] (penguin_plot_4)
 
 
 ## I can also add a link to a [folder](./my_plots)
